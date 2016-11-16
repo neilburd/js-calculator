@@ -35,14 +35,3 @@ var calculator = {
     calculator.exponent(a,b);
   }
 }
-
-
-
-
-// Your task is to create a Javascript object that represents a calculator. It should have methods that provide it with the following functionality...
-// * Addition
-// * Subtraction
-// * Multiplication
-// * Division
-// * Exponents (Hint: Look up Javascript's Math object)
-// * An operation of your choice!
