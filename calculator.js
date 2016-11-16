@@ -2,6 +2,7 @@
 //mem is the used as a sloppy memory
 var mem;
 
+
 var calculator = {
   add: function(a,b){
     mem = a + b;
